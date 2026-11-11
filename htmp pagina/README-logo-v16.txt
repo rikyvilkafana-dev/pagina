@@ -1,0 +1,1 @@
+V16: Se reemplazó el logo del encabezado en todas las páginas con el archivo aportado por el usuario. Se redujo el tamaño y se fijó la altura del encabezado. No se modificaron contenidos ni otros elementos. El archivo original es de 101x97 pixeles y puede verse algo borroso en pantallas de alta resolución.

@@ -1,0 +1,7 @@
+TOVEN FOODS · AjuSumag
+Ahora solo se muestran Gourmet y Herbal Garlic, ambas de 120 g según las presentaciones suministradas.
+El banner es una imagen promocional, no una fotografía de producto verificada.
+Para abrir: index.html (preferiblemente Live Server).
+Para publicar: confirmar correo, WhatsApp, datos empresariales y autorización de fotografías.
+
+Versión 15: logo premium transparente, hero centrado en la empresa y banner de AjuSumag movido a una sección inferior.
